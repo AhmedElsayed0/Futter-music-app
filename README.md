@@ -2,4 +2,4 @@
 
 this is a music app that plays Xylophone sounds.
 
-![Finished App](/Users/ahmed/Downloads/FlutterProjects/Xylophone-Flutter/xylophone-flutter.png)
+![Finished App](https://github.com/AhmedElsayed0/Futter-music-app/blob/master/xylophone-flutter.png)
